@@ -20,3 +20,5 @@ To-Do:
 **MY LOVELY FUR BABIES**
 ----
 ![Fur babies](https://github.com/aimeeyen/kickstarter-analysis/blob/main/Bicsuit%20%26%20Oreo.png)
+
+[Bicsuit Oreo](https://github.com/aimeeyen/kickstarter-analysis/blob/main/Bicsuit%20%26%20Oreo.png)
