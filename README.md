@@ -18,13 +18,13 @@ Performing analysis on Kickstarter data to uncover trends
 ![Outcome Based on Launch Date](https://github.com/aimeeyen/kickstarter-analysis/blob/main/Outcomes%20Based%20on%20Launch%20Date.jpg)
 ---
 
-### Statistical Analysis: 
-- On setting Goals: Successful campaign, it's more symmetic distribution IQR vs Standard Deviation ($3,500 vs $7,749).
-- On setting Goals: Failed campaign, data distriution is skewed. IQR are rougly 3 times the Standard Deviation ($8,000 vs. $21,968) signify really high unmet goals.
-- Successful Campaign's Mean Pledge are closing aligned with its Mean Goal ($5,602 vs $5,049) 
-- Failed Campaign's Mean Pledge are far from its Mean Goal ($559 vs $10,554)
+## Statistical Analysis: 
+###- On setting Goals: Successful campaign, it's more symmetic distribution IQR vs Standard Deviation ($3,500 vs $7,749).
+###- On setting Goals: Failed campaign, data distriution is skewed. IQR are rougly 3 times the Standard Deviation ($8,000 vs. $21,968) signify really high unmet goals.
+###- On Successful Campaign's Mean Pledge are closely aligned with its Mean Goal ($5,602 vs $5,049) 
+###- On Failed Campaign's Mean Pledge are far from its Mean Goal ($559 vs $10,554)
 
-Conclusion: In campaign's Goal setting and launch date/period may be a key factor in holding a successful and efficient campaign: allocating proper resources, labors, forecast/manage cost duration of the campaign. 
+**Conclusion:** A campaign's Goal setting and launch date/duration may be a key factor in making a campaign successful and efficient: allocating proper resources, labors, forecast/manage cost duration of the campaign. 
 
 ![Descriptive Statistics](https://github.com/aimeeyen/kickstarter-analysis/blob/main/Descriptive%20Statistics.png)
 ![Descriptive Statistics Chart](https://github.com/aimeeyen/kickstarter-analysis/blob/main/Descriptive%20Statistic%20Chart.png)
