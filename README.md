@@ -17,4 +17,4 @@ To-Do:
 
 **I love coding**
 ----
-[Vonnie][Vonnie & me.JPG]
+[Vonnie](Vonnie & me.JPG)
