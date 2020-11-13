@@ -12,7 +12,7 @@ Performing analysis on Kickstarter data to uncover trends
 
 ---
 
-## Most Successful Campaign Launch Date: **MAY - JUNE**
+## Most Successful Campaign Launch Date: Summer **MAY - JUNE**
 
-# Worse Time to Launch Campaigne: Winter (JAN - MAR)
+### Worse Time to Launch Campaigne: Winter **JAN - MAR**
 ![Outcome Based on Launch Date](https://github.com/aimeeyen/kickstarter-analysis/blob/main/Outcomes%20Based%20on%20Launch%20Date.jpg)
