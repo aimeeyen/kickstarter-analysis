@@ -21,3 +21,4 @@ To-Do:
 ----
 ![Vonnie   me](https://github.com/aimeeyen/kickstarter-analysis/blob/main/Vonnie%20%26%20me.JPG)
 
+![Fur babies](https://github.com/aimeeyen/kickstarter-analysis/blob/main/Bicsuit%20%26%20Oreo.png)
