@@ -17,6 +17,4 @@ To-Do:
 
 **I love coding**
 ----
-![Vonnie] (github.com/aimeeyen/kickstarter-analysis/blob/main/Vonnie & me.JPG)
-
-![Vonnie & me.jpg][aimeeyen/kickstarter-analysis/Vonnie & me.JPG]
+[Vonnie][Vonnie & me.JPG]
