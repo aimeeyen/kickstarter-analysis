@@ -21,3 +21,4 @@ Performing analysis on Kickstarter data to uncover trends
 Statistical Analysis: 
 
 ![Descriptive Statistics](https://github.com/aimeeyen/kickstarter-analysis/blob/main/Descriptive%20Statistics.png)
+![Descriptive Statistics Chart](https://github.com/aimeeyen/kickstarter-analysis/blob/main/Descriptive%20Statistic%20Chart.png)
