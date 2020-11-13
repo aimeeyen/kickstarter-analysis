@@ -2,8 +2,13 @@
 Performing analysis on Kickstarter data to uncover trends
 ----
 
-##Most Successful Campaigns: **Theater - Plays**
+Completed Analysis Excel file: [Kickstarter Analysis.xls](https://github.com/aimeeyen/kickstarter-analysis/blob/main/Kickstarter%20Analysis.xls)
+
+# Most Successful Campaigns: **Theater - Plays**
 ![Subcategory Statistics](https://github.com/aimeeyen/kickstarter-analysis/blob/main/Subcategory%20Statistics.jpg)
 
+![Parent Category Outcome](https://github.com/aimeeyen/kickstarter-analysis/blob/main/Parent%20Category%20Outcomes.jpg)
+
+---
 
 
