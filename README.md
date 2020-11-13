@@ -16,3 +16,5 @@ To-Do:
   - meditate 
 
 **I love coding**
+----
+![Bicsuit & Oreo.png] (https://github.com/aimeeyen/kickstarter-analysis/blob/main/Vonnie%20%26%20me.JPG)
