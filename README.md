@@ -19,4 +19,4 @@ To-Do:
 ----
 ![Vonnie] (github.com/aimeeyen/kickstarter-analysis/blob/main/Vonnie & me.JPG)
 
-![Vonnie & me.jpg][kickstart-analysis/Vonnie & me.jpg]
+![Vonnie & me.jpg][https://github.com/aimeeyen/kickstarter-analysis/blob/main/Vonnie%20%26%20me.JPG]
