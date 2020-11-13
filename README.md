@@ -1,6 +1,5 @@
 # An Analysis of Kickstarter Campaigns
-Performing analysis on Kickstarter data to uncover trends - 
-### - Analysis Excel file: [Kickstarter Analysis.xls](https://github.com/aimeeyen/kickstarter-analysis/blob/main/Kickstarter%20Analysis.xls)
+Performing analysis on Kickstarter data to uncover trends                        Completed Analysis Excel file --> [Kickstarter Analysis.xls](https://github.com/aimeeyen/kickstarter-analysis/blob/main/Kickstarter%20Analysis.xls)
 ----
 
 # Most Successful Campaigns: **Theater - Plays**
