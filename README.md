@@ -17,4 +17,4 @@ To-Do:
 
 **I love coding**
 ----
-![Bicsuit & Oreo.png] (https://github.com/aimeeyen/kickstarter-analysis/blob/main/Vonnie%20%26%20me.JPG)
+![Vonnie] (github.com/aimeeyen/kickstarter-analysis/blob/main/Vonnie & me.JPG)
