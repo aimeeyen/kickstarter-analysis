@@ -20,6 +20,7 @@ Provide visualization of dataset and drilled insight from data to better underst
  - Decline in success rate during School break: Spring, Summer, and Winter Break
  - Deline in success rate during Holiday season: 4th of July, Thanksgiving and Christmas
  - Low performing month Nov-Dec, maybe signifiy lower purchasing power during Holiday seasons
+ - The two variance Failed and Successful Outcomes, are in positive correlation. 
 
 ### Analysis of Outcomes Based on Goals
 
@@ -42,6 +43,8 @@ Despite the challenges, it was a great learning to make sure data are clean/clea
    - :white_check_mark: Summer season: May and June is the ***best*** time to launch campaign
 
    - :x: Winter season: Dec - Feb is the ***worst*** time to launch campaign and in Jan has the ***highest*** canceled campaigns
+
+   - Both Failed and Successful campaign have positive correlations, signify that both variable were affected equally by the time of launch date, such as School break or Holiday season. 
 
 
 ### - What can you conclude about the Outcomes based on Goals?
