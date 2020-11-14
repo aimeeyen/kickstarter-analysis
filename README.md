@@ -44,6 +44,7 @@ Despite the challenges, it was a great learning to make sure data are clean/clea
 
        
 ####   
+   
     - :white_check_mark: :heavy_dollar_sign: Goal less than $5000 and between $35K to $44.9K shown the ***highest*** success rate
 
 
