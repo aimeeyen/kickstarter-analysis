@@ -21,27 +21,27 @@ Provide visualization of dataset and drilled insight to better understand key fa
 
 ## Results
 
-- **What are two conclusions you can draw about the Outcomes based on Launch Date?**
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
  
-    -:white_check_mark:   Summer season: :date: May and June is the ***best*** time to launch campaign.
+    -:white_check_mark::date: Summer season: May and June is the ***best*** time to launch campaign.
 
-    -:x:    Winter season: :date: Dec - Feb has the ***worst*** time to launched campaign.  
+    -:x: :date:               Winter season: Dec - Feb has the ***worst*** time to launched campaign.  
 
 
-- **What can you conclude about the Outcomes based on Goals?**
+- What can you conclude about the Outcomes based on Goals?
 
     -:white_check_mark: :heavy_dollar_sign: Goal less than $5000 and between $35K to $44.9K shown the ***highest*** success rate
 
     -:x: :heavy_dollar_sign: Goal between $45K and above have the ***lowest*** success rate
 
 
-- **What are some limitations of this dataset?**
+- What are some limitations of this dataset?
  
  
 Do not have duration/length of the campaign period. To detmerine if longer or shorter campasign based on data created date and end date place a significant factor to achieve desired outcome
 
 
-- **What are some other possible tables and/or graphs that we could create?**
+- What are some other possible tables and/or graphs that we could create?
    Chart of total duration of Successful and Failed campgaign, with scatter chart around season or during times when 
 
 
