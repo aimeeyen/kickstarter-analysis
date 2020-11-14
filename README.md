@@ -20,12 +20,16 @@ Provide visualization of dataset and drilled insight from data to better underst
  - Decline in success rate during School break: Spring, Summer, and Winter Break
  - Deline in success rate during Holiday season: 4th of July, Thanksgiving and Christmas
  - Low performing month Nov-Dec, maybe signifiy lower purchasing power during Holiday seasons
- - The two variance Failed and Successful Outcomes, are in positive correlation. 
+ - The two variances Failed and Successful Outcomes, are in positive correlation. 
 
 ### Analysis of Outcomes Based on Goals
 
 ![Outcomes_vs_Goals](https://github.com/aimeeyen/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
-
+ - Sucess rate tends to decreased as the fundraising goal inceases, hense a negative correlation 
+ - At $15K, $35K and $44K have the equal percentage at around 50%.
+ - After $45K goal, a steep decline of success rate
+ - Between $35K to $45K, seemed to be the most stable performating goal setting.  
+ 
 ### Challenges and Difficulties Encountered
    
 ####   
@@ -44,7 +48,7 @@ Despite the challenges, it was a great learning to make sure data are clean/clea
 
    - :x: Winter season: Dec - Feb is the ***worst*** time to launch campaign and in Jan has the ***highest*** canceled campaigns
 
-   - Both Failed and Successful campaign have positive correlations, signify that both variables were affected equally by the timing of launch date, such as School break or Holiday season. 
+   - Both Failed and Successful campaign have positive correlations, signify that both variables were affected equally by the timing of launch date, seasonality: such as School break or Holiday season. 
 
 
 ### - What can you conclude about the Outcomes based on Goals?
