@@ -14,10 +14,13 @@ Provide visualization of dataset and drilled insight from data to better underst
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+
 ![Theater_Outcomes_vs_Launch](https://github.com/aimeeyen/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+
 ### Analysis of Outcomes Based on Goals
 
 ![Outcomes_vs_Goals](https://github.com/aimeeyen/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+
 ### Challenges and Difficulties Encountered
    
 ####   
@@ -30,17 +33,21 @@ Despite the challenges, it was a great learning to make sure data are clean/clea
 # Results
 
 ### - What are two conclusions you can draw about the Outcomes based on Launch Date?
- 
-    -:white_check_mark::date: Summer season: May and June is the ***best*** time to launch campaign.
 
-    -:x: :date:               Winter season: Dec - Feb is the ***worst*** time to launch campaign and the ***highest*** canceled campaign
+
+-:white_check_mark::date: Summer season: May and June is the ***best*** time to launch campaign.
+
+
+-:x: :date:               Winter season: Dec - Feb is the ***worst*** time to launch campaign and the ***highest*** canceled campaign
 
 
 ### - What can you conclude about the Outcomes based on Goals?
 
-    -:white_check_mark: :heavy_dollar_sign: Goal less than $5000 and between $35K to $44.9K shown the ***highest*** success rate
+       
+####   -:white_check_mark: :heavy_dollar_sign: Goal less than $5000 and between $35K to $44.9K shown the ***highest*** success rate
 
-    -:x: :heavy_dollar_sign: Goal between $45K and above have the ***lowest*** success rate
+
+   -:x: :heavy_dollar_sign: Goal between $45K and above have the ***lowest*** success rate
 
 
 ### - What are some limitations of this dataset?
