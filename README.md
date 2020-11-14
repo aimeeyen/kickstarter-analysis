@@ -35,10 +35,12 @@ Despite the challenges, it was a great learning to make sure data are clean/clea
 ### - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 
--:white_check_mark::date: Summer season: May and June is the ***best*** time to launch campaign.
+-:white_check_mark: 
+  Summer season: May and June is the ***best*** time to launch campaign.
 
 
--:x: :date:               Winter season: Dec - Feb is the ***worst*** time to launch campaign and the ***highest*** canceled campaign
+-:x: 
+ Winter season: Dec - Feb is the ***worst*** time to launch campaign and the ***highest*** canceled campaign
 
 
 ### - What can you conclude about the Outcomes based on Goals?
