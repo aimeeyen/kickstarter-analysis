@@ -15,11 +15,11 @@ Provide visualization of dataset and drilled insight from data to better underst
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Theater_Outcomes_vs_Launch](https://github.com/aimeeyen/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://github.com/aimeeyen/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
-![Outcomes_vs_Goals](https://github.com/aimeeyen/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](https://github.com/aimeeyen/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
    
