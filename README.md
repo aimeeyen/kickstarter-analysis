@@ -2,7 +2,7 @@
 
 
 # Kickstarting with Excel
-Downloadable link: [Kickstarter_Challenge](https://github.com/aimeeyen/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx)
+Completed Analysis Excel File: [Kickstarter_Challenge](https://github.com/aimeeyen/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx)
 
 ## Overview of Project
 Performing analysis on Kickstarter dataset to uncover trends and discover findings on key factors in determinig a successful campaign in "Plays" subcategory. 
