@@ -19,9 +19,9 @@ Provide visualization of dataset and drilled insight to better understand key fa
 ![Outcomes_vs_Goals](https://github.com/aimeeyen/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
    
-   Having some difficulties with code/excel formula. Googles some answer and wathced few videos on *(Countifs)* While working on compiling Outcome vs goal dataset *(Countifs)*, total count of campaigns did not add up, after few validation it formula feed back bad data/result. 
+   Having some difficulties with code/excel formula. Googles some answer from different site and watched few videos on *(Countifs)* While working on compiling Outcome vs goal dataset *(Countifs)*, total count of campaigns did not add up, after few data validation concluded that the formula wasn't working or it's outputting bad data. 
 
-After hours trying to fix my code, redoing the exericse, *thinking* the possiblity of data corruption. Then, went back to the Kickstart dataset to re-examine the raw data and clear any filter and resetting the data, found out that **"freeze panes"** was on, it somehow interfered with filtered and the formulas. After "unfreeze panes", total count of add up. Phew, it was a :relieved: relief and a sense of accomplishment, tiny boost of confidence :smirk: 
+After hours of trying to fix the code, debugging, redoing the exericse, *thinking* the possiblity of data corruption. Then, went back to the Kickstart dataset to re-examine the raw data and clear any filter and resetting the data, found out that **"freeze panes"** was on, it somehow interfered with filtered "outcome" and produced bad result. After the "unfreeze panes", total count adds up. Phew, it was a :relieved: relief and a sense of accomplishment and tiny boost of confidence :smirk: Despite the challenges, it was a great learning to make sure data are clean/cleared and not in "freeze pane" in order for filter to work properly. This debugging process somehow made me believe in my ability to resolve any issue, just put in the time/effort to backtrack your steps. 
    
 ## Results
 
