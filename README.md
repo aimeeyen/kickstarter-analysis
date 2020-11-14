@@ -51,10 +51,10 @@ Despite the challenges, it was a great learning to make sure data are clean/clea
 
 ![Descriptive Statistics](https://github.com/aimeeyen/kickstarter-analysis/blob/main/Descriptive%20Statistics.png)
 
-  1. On setting Goals: Successful campaign, it's more symmetic distribution IQR vs Standard Deviation ($3,500 vs $7,749).
-  2. On setting Goals: Failed campaign, data distriution is skewed. IQR are rougly 3 times the Standard Deviation ($8,000 vs. $21,968) signify really high unmet goals.
-  3. On Successful Campaign's Mean Pledge are closely aligned with its Mean Goal ($5,602 vs $5,049)
-  4. On Failed Campaign's Mean Pledge are far from its Mean Goal ($559 vs $10,554)
+  1. On setting Goals: Successful campaign, it's more **symmetic** distribution IQR vs Standard Deviation ($3,500 vs $7,749).
+  2. On setting Goals: Failed campaign, data distriution is **skewed**. IQR are rougly 3 times the Standard Deviation ($8,000 vs. $21,968) signify really high unmet goals.
+  3. On Successful Campaign's Mean Pledge are **closely aligned** with its Mean Goal ($5,602 vs $5,049)
+  4. On Failed Campaign's Mean Pledge are **far from** its Mean Goal ($559 vs $10,554)
 
 ### - What are some limitations of this dataset?
   
