@@ -65,4 +65,5 @@ Despite the challenges, it was a great learning to make sure data are clean/clea
    - Create above chart for different countries to discover any trends or best period to launch particular campaign per region
    - "Spotlight" column data and "Staff Pick" vs "Outcome" to see if there's any correlation towards a successful campaign
 
-Conclusion: A campaign's goal setting and launch date/duration *maybe* a key factor in promoting successful and efficient campaign: allocating proper resources, labors, marketing targeted audiances, forecast/manage cost in the duration of the campaign. And moreover, avoid Holiday season when majority of population are out of town. 
+## Conclusion: 
+A campaign's goal setting and launch date/duration *maybe* a key factor in promoting successful and efficient campaign: allocating proper resources, labors, marketing targeted audiances, forecast/manage cost in the duration of the campaign. And moreover, avoid Holiday season when majority of population are out of town. 
