@@ -5,11 +5,11 @@
 Downloadable link: [Kickstarter_Challenge](https://github.com/aimeeyen/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx)
 
 ## Overview of Project
-Performing analysis on Kickstarter dataset to uncover trends and discover findings on key factors and variables 
+Performing analysis on Kickstarter dataset to uncover trends and discover findings on key factors in determinig a successful campaign in "Plays" subcategory. 
 
 ### Purpose
 
-Provide visualization of dataset and drilled insight to better understand key factors in launching successful campaign
+Provide visualization of dataset and drilled insight from data to better understand what key factors contribute the success of fundraising. 
 
 ## Analysis and Challenges
 
@@ -33,7 +33,7 @@ Despite the challenges, it was a great learning to make sure data are clean/clea
  
     -:white_check_mark::date: Summer season: May and June is the ***best*** time to launch campaign.
 
-    -:x: :date:               Winter season: Dec - Feb is the ***worst*** time to launch campaign.  
+    -:x: :date:               Winter season: Dec - Feb is the ***worst*** time to launch campaign and the ***highest*** canceled campaign
 
 
 ### - What can you conclude about the Outcomes based on Goals?
