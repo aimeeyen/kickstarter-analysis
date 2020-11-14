@@ -2,7 +2,7 @@
 
 
 # Kickstarting with Excel
-Download file link: [Kickstarter_Challenge] (https://github.com/aimeeyen/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx)
+Download file link: [Kickstarter_Challenge](https://github.com/aimeeyen/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx)
 ## Overview of Project
 Performing analysis on Kickstarter data to uncover trends and insight
 
