@@ -25,7 +25,7 @@ Provide visualization of dataset and drilled insight to better understand key fa
  
     -:date:  Summer season: May and June is the ***best*** time to launch campaign.
 
-    -:date:  Winter season: Dec - Feb has the ***lowest*** success rate of launched campaign.  
+    -:date:  Winter season: Dec - Feb has the ***worst*** time to launched campaign.  
 
 - What can you conclude about the Outcomes based on Goals?
 
