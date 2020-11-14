@@ -23,15 +23,15 @@ Provide visualization of dataset and drilled insight to better understand key fa
 
 ### - What are two conclusions you can draw about the Outcomes based on Launch Date?
  
-    - :chart_with_upwards_trend: Summer season: May and June is the *best time* to launch campaign.
+    -:chart_with_upwards_trend: Summer season: May and June is the *best time* to launch campaign.
 
-    - :chart_with_downwards_trend: Winter season: Dec - Feb has the **lowest success rate** of launched campaign.  
+    -:chart_with_downwards_trend: Winter season: Dec - Feb has the **lowest success rate** of launched campaign.  
 
 ### - What can you conclude about the Outcomes based on Goals?
 
-    - :white_check_mark::heavy_dollar_sign:Monetary Goal less than 5000 and between $35K to $44.9K shown the **highest success rate**
+    -:white_check_mark::heavy_dollar_sign:Monetary Goal less than 5000 and between $35K to $44.9K shown the **highest success rate**
 
-    - :x::heavy_dollar_sign:Monetary Goal between $45K to $49.9K or above have the **highest failed rate** 
+    -:x::heavy_dollar_sign:Monetary Goal between $45K to $49.9K or above have the **highest failed rate** 
 
 ### - What are some limitations of this dataset?
   
