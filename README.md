@@ -44,7 +44,7 @@ Despite the challenges, it was a great learning to make sure data are clean/clea
 
    - :x: Winter season: Dec - Feb is the ***worst*** time to launch campaign and in Jan has the ***highest*** canceled campaigns
 
-   - Both Failed and Successful campaign have positive correlations, signify that both variable were affected equally by the time of launch date, such as School break or Holiday season. 
+   - Both Failed and Successful campaign have positive correlations, signify that both variables were affected equally by the timing of launch date, such as School break or Holiday season. 
 
 
 ### - What can you conclude about the Outcomes based on Goals?
