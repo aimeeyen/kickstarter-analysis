@@ -23,31 +23,33 @@ Provide visualization of dataset and drilled insight to better understand key fa
 ####   
 Having some difficulties with code/excel formula. Googles some answer from different site and watched few videos on *(Countifs)* While working on compiling Outcome vs goal dataset *(Countifs)*, total count of campaigns did not add up, after few data validation concluded that the formula wasn't working or it's outputting bad data. 
 
-After hours of trying to fix the code, debugging, redoing the exericse, *thinking* the possiblity of data corruption. Then, went back to the Kickstart dataset to re-examine the raw data and clear any filter and resetting the data, found out that **"freeze panes"** was on, it somehow interfered with filtered "outcome" and produced bad result. After the "unfreeze panes", total count adds up. Phew, it was a :relieved: relief and a sense of accomplishment and tiny boost of confidence :smirk: Despite the challenges, it was a great learning to make sure data are clean/cleared and not in "freeze pane" in order for filter to work properly. This debugging process somehow made me believe in my ability to resolve any issue, just put in the time/effort to backtrack your steps. 
-   
-## Results
+After hours of trying to fix the code, debugging, redoing the exericse, *thinking* the possiblity of data corruption. Then, went back to the Kickstart dataset to re-examine the raw data and clear any filter and resetting the data, found out that **"freeze panes"** was on, it somehow interfered with filtered "outcome" and produced bad result. After the "unfreeze panes", total count adds up. Phew, it was a :relieved: relief and a sense of accomplishment and tiny boost of confidence :smirk: 
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+Despite the challenges, it was a great learning to make sure data are clean/cleared and not in "freeze pane" in order for filter to work properly. This debugging process somehow made me believe in my ability to resolve issues at hand, just put in the time/effort to backtrack your steps. 
+   
+# Results
+
+### - What are two conclusions you can draw about the Outcomes based on Launch Date?
  
     -:white_check_mark::date: Summer season: May and June is the ***best*** time to launch campaign.
 
     -:x: :date:               Winter season: Dec - Feb is the ***worst*** time to launch campaign.  
 
 
-- What can you conclude about the Outcomes based on Goals?
+### - What can you conclude about the Outcomes based on Goals?
 
     -:white_check_mark: :heavy_dollar_sign: Goal less than $5000 and between $35K to $44.9K shown the ***highest*** success rate
 
     -:x: :heavy_dollar_sign: Goal between $45K and above have the ***lowest*** success rate
 
 
-- What are some limitations of this dataset?
+### - What are some limitations of this dataset?
  
  
 Do not have duration/length of the campaign period. To detmerine if longer or shorter campasign based on data created date and end date place a significant factor to achieve desired outcome
 
 
-- What are some other possible tables and/or graphs that we could create?
+### - What are some other possible tables and/or graphs that we could create?
    Chart of total duration of Successful and Failed campgaign, with scatter chart around season or during times when 
 
 
