@@ -18,7 +18,11 @@ Provide visualization of dataset and drilled insight to better understand key fa
 
 ![Outcomes_vs_Goals](https://github.com/aimeeyen/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
-    While working throught some excel formulas -(Countifs)-, total count of campaign doesn't add up. After an hour trying to fix my code, redoing the exericse, thinking about possiblity of data corruption. Then went back to the Kickstart dataset, found out that "freeze panes" was on, it interfered with filter and the formulat. After removing the "unfreeze panes" the total count of Goal range add up.
+   
+   Having some difficulties with code/excel formula. Googles some answer and wathced few videos on *(Countifs)* While working on compiling Outcome vs goal dataset *(Countifs)*, total count of campaigns did not add up, after few validation it formula feed back bad data/result. 
+
+After hours trying to fix my code, redoing the exericse, *thinking* the possiblity of data corruption. Then, went back to the Kickstart dataset to re-examine the raw data and clear any filter and resetting the data, found out that **"freeze panes"** was on, it somehow interfered with filtered and the formulas. After "unfreeze panes", total count of add up. Phew, it was a :relieved: relief and a sense of accomplishment, tiny boost of confidence :smirk: 
+   
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
