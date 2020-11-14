@@ -16,6 +16,10 @@ Provide visualization of dataset and drilled insight from data to better underst
 ### Analysis of Outcomes Based on Launch Date
 
 ![Theater_Outcomes_vs_Launch](https://github.com/aimeeyen/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+ - Highest performning month: May (Memorial and Mother's day) Also Feburary (Valentine)
+ - Decline in success rate during School break: Spring, Summer, and Winter Break
+ - Deline in success rate during Holiday season: 4th of July, Thanksgiving and Christmas
+ - Low performing month Nov-Dec, maybe signifiy lower purchasing power during Holiday seasons
 
 ### Analysis of Outcomes Based on Goals
 
