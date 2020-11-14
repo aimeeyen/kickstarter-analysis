@@ -9,7 +9,7 @@ Performing analysis on Kickstarter dataset to uncover trends and discover findin
 
 ### Purpose
 
-Provide visualization of dataset and drilled insight from data to better understand what key factors contribute the success of fundraising. 
+Provide visualization of dataset and drilled insight from data to better understand which key factors contribute the success of fundraising. 
 
 ## Analysis and Challenges
 
@@ -35,21 +35,19 @@ Despite the challenges, it was a great learning to make sure data are clean/clea
 ### - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 
--:white_check_mark: 
-  Summer season: May and June is the ***best*** time to launch campaign.
+   - :white_check_mark: Summer season: May and June is the ***best*** time to launch campaign.
 
-
--:x: 
- Winter season: Dec - Feb is the ***worst*** time to launch campaign and the ***highest*** canceled campaign
+   - :x: Winter season: Dec - Feb is the ***worst*** time to launch campaign and the ***highest*** canceled campaign
 
 
 ### - What can you conclude about the Outcomes based on Goals?
 
        
-####   -:white_check_mark: :heavy_dollar_sign: Goal less than $5000 and between $35K to $44.9K shown the ***highest*** success rate
+####   
+    - :white_check_mark: :heavy_dollar_sign: Goal less than $5000 and between $35K to $44.9K shown the ***highest*** success rate
 
 
-   -:x: :heavy_dollar_sign: Goal between $45K and above have the ***lowest*** success rate
+    - :x: :heavy_dollar_sign: Goal between $45K and above have the ***lowest*** success rate
 
 
 ### - What are some limitations of this dataset?
